@@ -13,6 +13,6 @@
     "@langchain/openai": "^0.2.4",
     "composio-core": "latest",
     "dotenv": "^16.4.5",
-    "langchain": "^0.2.10"
+    "langchain": "^0.2.20"
   }
 }
