@@ -13,8 +13,8 @@
   "dependencies": {
     "composio-core": "^0.5.3",
     "dotenv": "^16.4.7",
-    "express": "^4.19.2",
-    "langchain": "^0.3.5",
+    "express": "^5.1.0",
+    "langchain": "^0.3.27",
     "pusher-js": "8.4.0-rc2"
   }
 }
