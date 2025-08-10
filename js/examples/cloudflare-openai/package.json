@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "composio-core": "0.2.8",
-    "hono": "^4.2.5",
+    "hono": "^4.6.5",
     "openai": "^4.68.1"
   }
 }
